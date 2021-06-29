@@ -10,6 +10,7 @@ along with https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenb
 
 I am currently collecting feature requests.
 
+- Make OOP API compatible with all OOP languages.
 - Simple
 - Configure with Curses/Blessed UI
-- Save History Instantly so that nothinbg is lost upon a crash.
+- Save History Instantly so that nothing is lost upon a crash.
