@@ -1,0 +1,32 @@
+{
+  "author": "Cat Pea <corporate.miou@gmail.com> (https://catpea.com/)",
+
+  "type": "module",
+  "name": "oosh",
+  "version": "1.0.0",
+  "description": "Object Oriented Shell",
+  "main": "index.js",
+
+  "bin": {
+     "oosh": "./index.js"
+   },
+
+   "scripts": {
+     "bork": "git add .; git commit -m 'New Release'; git push; npm publish; git push;",
+     "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
+   },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catpea/oosh.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catpea/oosh/issues"
+  },
+  "homepage": "https://github.com/catpea/oosh#readme",
+  "dependencies": {
+    "bashscript": "^2.0.26"
+  }
+}
