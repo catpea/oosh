@@ -2,7 +2,7 @@
   "author": "Cat Pea <corporate.miou@gmail.com> (https://catpea.com/)",
   "type": "module",
   "name": "oosh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Object Oriented Shell",
   "main": "index.js",
   "bin": {
